@@ -1,3 +1,8 @@
+'''
+Programa que calcula la edad de un gato
+y un perro con respecto a los años humanos
+'''
+
 import tkinter as tk
 from tkinter import messagebox
 
